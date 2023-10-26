@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const validator = require('validator');
 const bcrypt = require('bcryptjs');
 // const { prependListener } = require('./carModel');
-const Car = require('./carModel');
+const Car = require('./../car/carModel');
 
 const userSchema = new mongoose.Schema({
     fullName:{

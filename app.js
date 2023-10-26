@@ -1,6 +1,6 @@
 const express = require("express");
-const carsRouter = require('./Routes/carsRoutes');
-const authRouter = require('./Routes/authRouter');
+const carsRouter = require('./components/car/carsRoutes');
+const authRouter = require('./components/user/authRouter');
 
 let app = express();
 

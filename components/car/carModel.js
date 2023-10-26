@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 // const fs = require('fs'); 
-const User = require('./userModel');
+const User = require('./../user/userModel');
 const { ObjectId } = require('mongodb');
 const carSchema = new mongoose.Schema({
   make: {
