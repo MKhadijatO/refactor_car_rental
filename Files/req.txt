@@ -1,0 +1,12 @@
+Create a car rental application.
+6. Everyone can see all cars or a particular one.
+1. Car owners can register their cars there
+4. Car owner can change  or modify his or her car.
+5. Car owner or admin can remove a car from the garage.
+3. Registration could be approved, rejected or pending.
+2. When car owner registers his or her car, the admin can approve or reject the car
+
+
+
+
+
