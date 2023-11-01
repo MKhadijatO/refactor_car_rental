@@ -7,7 +7,7 @@ exports.getAllCars = async (req, res, next) => {
 
     res.status(200).json({
       status: "success",
-      legth: cars.length,
+      length: cars.length,
       data: {
         cars
       }

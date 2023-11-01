@@ -1,0 +1,21 @@
+{
+  "name": "car_rental_app",
+  "version": "1.0.0",
+  "description": "Learning by practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Khadijat",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.5.1",
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0"
+  }
+}
